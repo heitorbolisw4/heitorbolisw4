@@ -2,7 +2,6 @@
 # Heitor Oliveira
 
 
-## Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas, em formação para atuar como desenvolvedor full-stack. Possuo experiência prática no desenvolvimento de sites institucionais e sistemas personalizados, utilizando HTML, CSS, JavaScript e Python.
 
 Atualmente, estou me especializando em .NET e C#, além de aprofundar meus conhecimentos em banco de dados e engenharia de software, com foco em boas práticas de desenvolvimento e arquitetura de sistemas.
