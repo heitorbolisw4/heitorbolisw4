@@ -11,3 +11,5 @@ Durante minha jornada, já desenvolvi projetos para diferentes nichos, como agê
 
 | ![Img C#](https://img.icons8.com/nolan/96/c-sharp-logo.png) | ![Static Badge](https://img.icons8.com/color/96/net-framework.png) | ![Static Badge](https://img.icons8.com/color/96/python--v1.png) | ![Static Badge](https://img.icons8.com/color/96/html-5--v1.png) |![Static Badge](https://img.icons8.com/color/96/css3.png) |
 |---------|--------|---------|--------|---------|
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=heitorbolisw4&theme=darcula&hide_border=true&mode=weekly&card_width=500&hide_longest_streak=true)](https://git.io/streak-stats)
