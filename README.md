@@ -13,3 +13,4 @@ Durante minha jornada, já desenvolvi projetos para diferentes nichos, como agê
 |---------|--------|---------|--------|---------|
 
 [dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+|-----------|
