@@ -2,13 +2,13 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://github.dev/heitorbolisw4/main/assets/bg.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/heitorbolisw4/heitorbolisw4/main/assets/bg.svg" width="100%" height="auto"/>
 </p>
 
 heitorbolisw4/heitorbolisw4/DenverCoder1/readme-typing-svg
 </p>
 <p align="center">
-  <strong>C#</strong> &nbsp;|&nbsp; <strong>.NET</strong> &nbsp;|&nbsp; <strong>Linux</strong>
+  <strong style="font-size: 24px;">HEITOR OLIVEIRA</strong>
 </p>
 
 
