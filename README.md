@@ -2,8 +2,9 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=140&section=header&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/heitorbolisw4/HEITORBOLISW4/main/assets/bg.svg" width="100%" />
 </p>
+
 </p>
 <p align="center">
   <strong>C#</strong> &nbsp;|&nbsp; <strong>.NET</strong> &nbsp;|&nbsp; <strong>Linux</strong>
