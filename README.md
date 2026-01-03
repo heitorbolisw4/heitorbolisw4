@@ -6,7 +6,9 @@
 </p>
 
 <!-- Hidden H1 for SEO/accessibility -->
+<!-- Hidden H1 for SEO/accessibility -->
 <h1 style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Heitor Oliveira</h1>
+
 
 <p align="center">
   <img 
@@ -28,7 +30,10 @@ Durante minha jornada, já desenvolvi projetos para diferentes nichos, como agê
 
 ## Skills
 
-Atualmente estudando: **Redes** (TCP/IP, roteamento, segurança de redes).
+### 🧰 Tecnologias & Foco de Estudo
+
+**Em aprofundamento:** Redes (TCP/IP, roteamento, segurança, serviços de infraestrutura)
+
 
 <p align="center">
   <table>
