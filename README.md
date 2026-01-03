@@ -3,6 +3,7 @@
 <div align="center">
 <p align="center">
   <img src="https://github.dev/heitorbolisw4/heitorbolisw4/blob/5bd5e1186d0e066fd3ec0537fc5fc40b199d4354/bg.svg" width="100%" />
+>>>>>>> 13897bac5f6f64565c48437a075b05c9080a6373
 </p>
 
 heitorbolisw4/heitorbolisw4/DenverCoder1/readme-typing-svg
