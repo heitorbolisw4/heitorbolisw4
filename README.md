@@ -9,7 +9,8 @@ https://img.icons8.com/color/96/linux--v1.png
 Durante minha jornada, já desenvolvi projetos para diferentes nichos, como agência de viagens e academia de lutas, o que me proporcionou vivência com demandas reais e contato direto com clientes.
 
 
-| ![Linux logo](https://img.icons8.com/color/96/linux--v1.png) | ![Static Badge](https://img.icons8.com/color/98/c-programming.png) | ![Python logo](https://img.icons8.com/color/96/python--v1.png) | ![C#](https://img.icons8.com/nolan/96/c-sharp-logo.png) |![C++ logo](https://img.icons8.com/color/96/c-plus-plus-logo.png) |
+| ![Linux logo](https://img.icons8.com/color/96/linux--v1.png) | ![Static Badge](https://img.icons8.com/color/98/c-programming.png) | ![C++ logo](https://img.icons8.com/color/96/c-plus-plus-logo.png) | ![C#](https://img.icons8.com/nolan/96/c-sharp-logo.png) |![Python logo](https://img.icons8.com/color/96/python--v1.png) |
 |---------|--------|---------|--------|---------|
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=heitorbolisw4&theme=tokyonight&hide_border=true&mode=weekly&card_width=500&hide_longest_streak=true)](https://git.io/streak-stats)
+
