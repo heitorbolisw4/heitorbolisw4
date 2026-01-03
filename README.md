@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://github.dev/heitorbolisw4/heitorbolisw4/main/bg.svg" width="100%" />
+  <img src="https://github.dev/heitorbolisw4/heitorbolisw4/blob/5bd5e1186d0e066fd3ec0537fc5fc40b199d4354/bg.svg" width="100%" />
 </p>
 
 heitorbolisw4/heitorbolisw4/DenverCoder1/readme-typing-svg
