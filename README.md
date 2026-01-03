@@ -1,11 +1,13 @@
-
-# Heitor Oliveira
-
+<!-- markdownlint-disable MD033 MD041 -->
+<h1 align="center">Heitor Oliveira</h1>
+<p align="center">
+  <h3 align="center">⌨️ Desenvolvedor Back-End</h3>
+</p>
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, em formação para atuar como desenvolvedor full-stack. Possuo experiência prática no desenvolvimento de sites institucionais e sistemas personalizados, utilizando HTML, CSS, JavaScript e Python.
 
 Atualmente, estou me especializando em .NET e C#, além de aprofundar meus conhecimentos em banco de dados e engenharia de software, com foco em boas práticas de desenvolvimento e arquitetura de sistemas.
-https://img.icons8.com/color/96/linux--v1.png
+
 Durante minha jornada, já desenvolvi projetos para diferentes nichos, como agência de viagens e academia de lutas, o que me proporcionou vivência com demandas reais e contato direto com clientes.
 
 
