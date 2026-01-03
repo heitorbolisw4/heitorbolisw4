@@ -2,12 +2,14 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=140&section=header&text=Heitor%20Oliveira&fontColor=38bdf8&fontSize=38&animation=fadeIn" alt="Banner Heitor Oliveira" style="max-width:100%;height:auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=140&section=header&animation=fadeIn" />
 </p>
 
-<!-- Hidden H1 for SEO/accessibility -->
+</p>
+
+
 <h1 style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Heitor Oliveira</h1>
-<!-- Hidden H1 for SEO/accessibility -->
+
 
 
 <p align="center">
