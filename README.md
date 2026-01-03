@@ -4,8 +4,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=140&section=header&animation=fadeIn" />
 </p>
-
 </p>
+<p align="center">
+  <strong>C#</strong> &nbsp;|&nbsp; <strong>.NET</strong> &nbsp;|&nbsp; <strong>Linux</strong>
+</p>
+
 
 
 <h1 style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Heitor Oliveira</h1>
