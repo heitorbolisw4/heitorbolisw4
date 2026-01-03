@@ -6,8 +6,8 @@
 </p>
 
 <!-- Hidden H1 for SEO/accessibility -->
-<!-- Hidden H1 for SEO/accessibility -->
 <h1 style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Heitor Oliveira</h1>
+<!-- Hidden H1 for SEO/accessibility -->
 
 
 <p align="center">
