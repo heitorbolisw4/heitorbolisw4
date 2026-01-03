@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/heitorbolisw4/HEITORBOLISW4/main/assets/bg.svg" width="100%" />
+  <img src="https://github.dev/heitorbolisw4/heitorbolisw4/blob/main/assets/bg.svg" width="100%" />
 </p>
 
 </p>
