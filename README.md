@@ -5,12 +5,14 @@
   <img src="https://raw.githubusercontent.com/heitorbolisw4/heitorbolisw4/main/assets/bg.svg" width="100%" height="auto"/>
 </p>
 
-heitorbolisw4/heitorbolisw4/DenverCoder1/readme-typing-svg
 </p>
 <p align="center">
   <strong style="font-size: 24px;">HEITOR OLIVEIRA</strong>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heitorbolisw4/heitorbolisw4/main/assets/name.svg" />
+</p>
 
 
 <h1 style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Heitor Oliveira</h1>
