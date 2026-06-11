@@ -25,11 +25,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, em formação para atuar como **desenvolvedor back-end**
-- 💻 Experiência prática no desenvolvimento de **sites institucionais e sistemas personalizados** com HTML, CSS, JavaScript e Python
-- 📚 Atualmente me especializando em **.NET e C#**, além de aprofundar conhecimentos em **banco de dados** e **engenharia de software**
-- 🏗️ Foco em **boas práticas de desenvolvimento** e **arquitetura de sistemas**
-- 🤝 Já desenvolvi projetos para diferentes nichos — como **agência de viagens** e **academia de lutas** — com vivência em demandas reais e contato direto com clientes
+Estudante de **Análise e Desenvolvimento de Sistemas**, em formação para atuar como **desenvolvedor back-end**. Possuo experiência prática no desenvolvimento de **sites institucionais e sistemas personalizados** com HTML, CSS, JavaScript e Python, e atualmente me especializo em **.NET e C#**, aprofundando conhecimentos em **banco de dados** e **engenharia de software**, com foco em boas práticas de desenvolvimento e arquitetura de sistemas. Ao longo dessa trajetória, desenvolvi projetos para diferentes segmentos — como **agência de viagens** e **academia de lutas** —, o que me proporcionou vivência com demandas reais e contato direto com clientes.
 
 ## Skills
 
