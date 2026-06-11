@@ -8,8 +8,8 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Back-End+Developer;C%23+%7C+Go+%7C+.NET+%7C+Linux;Building+real+projects;Always+learning"
-    alt="Animated typing: Back-End Developer; C# | Go | .NET | Linux; Building real projects; Always learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Back-End+Developer;C%23+%7C+Go+%7C+PHP+%7C+.NET+%7C+Linux;Building+real+projects;Always+learning"
+    alt="Animated typing: Back-End Developer; C# | Go | PHP | .NET | Linux; Building real projects; Always learning"
     style="max-width:100%;height:auto;"
   />
 </p>
@@ -29,9 +29,10 @@ Desenvolvedor **Back-End** especializado em **C# e Go**, com experiência no des
 
 ## Skills
 
-### 🧰 Tecnologias & Foco de Estudo
+### 🧰 Stack & Curiosidades
 
-**Em aprofundamento:** Redes (TCP/IP, roteamento, segurança, serviços de infraestrutura)
+> *"Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway."*
+> — Andrew S. Tanenbaum
 
 
 <p align="center">
