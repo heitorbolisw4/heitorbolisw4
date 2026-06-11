@@ -2,7 +2,9 @@
 
 <div align="center">
 
-# Heitor Oliveira
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heitorbolisw4/heitorbolisw4/main/assets/name.svg" alt="Heitor Oliveira" width="600" />
+</p>
 
 <p align="center">
   <img 
