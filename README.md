@@ -8,8 +8,8 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Back-End+Developer;C%23+%7C+.NET+%7C+Linux;Building+real+projects;Always+learning"
-    alt="Animated typing: Back-End Developer; C# | .NET | Linux; Building real projects; Always learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Back-End+Developer;C%23+%7C+Go+%7C+.NET+%7C+Linux;Building+real+projects;Always+learning"
+    alt="Animated typing: Back-End Developer; C# | Go | .NET | Linux; Building real projects; Always learning"
     style="max-width:100%;height:auto;"
   />
 </p>
@@ -25,7 +25,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor **Back-End** especializado em **C# e Go**, com experiência prática no desenvolvimento de **sites institucionais e sistemas personalizados** para diferentes segmentos, atendendo demandas reais e em contato direto com clientes. Movido pela curiosidade pela **computação em geral**, dedico-me ao estudo de **linguagens de baixo nível** e **redes** — do funcionamento interno dos sistemas à infraestrutura que os conecta —, sempre com foco em boas práticas de desenvolvimento e arquitetura de sistemas.
+Desenvolvedor **Back-End** especializado em **C# e Go**, com experiência no desenvolvimento de **APIs REST** e **desenvolvimento web com PHP**. Atuo como **freelancer** na construção de **sistemas web**, atendendo demandas reais e em contato direto com clientes. Movido pela curiosidade pela **computação em geral**, dedico-me ao estudo de **linguagens de baixo nível** e **redes** — do funcionamento interno dos sistemas à infraestrutura que os conecta —, sempre com foco em boas práticas de desenvolvimento e arquitetura de sistemas.
 
 ## Skills
 
