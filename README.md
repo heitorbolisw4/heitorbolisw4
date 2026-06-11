@@ -44,6 +44,8 @@
       <td><img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" alt="C++ logo"/></td>
       <td><img src="https://img.icons8.com/nolan/96/c-sharp-logo" alt="C#"/></td>
       <td><img src="https://img.icons8.com/color/96/python--v1.png" alt="Python logo"/></td>
+      <td><img src="https://img.icons8.com/color/96/golang.png" alt="Golang logo"/></td>
+      <td><img src="https://img.icons8.com/color/96/php.png" alt="PHP logo"/></td>
     </tr>
   </table>
 </p>
