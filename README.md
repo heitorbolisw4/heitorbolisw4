@@ -32,35 +32,22 @@
 > — Andrew S. Tanenbaum
 
 
-<!-- Skills badges: black & red theme — red category chip opens each row, black badges with red logos follow -->
 <p align="center">
-  <img src="https://img.shields.io/badge/LANGUAGES-FF2A2A?style=for-the-badge" alt="Languages" />
-  <img src="https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=FF2A2A" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=FF2A2A" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=dotnet&logoColor=FF2A2A" alt="C#" />
-  <img src="https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=FF2A2A" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=FF2A2A" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FF2A2A" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=FF2A2A" alt="JavaScript" />
+  <table>
+    <tr>
+      <td><img src="https://img.icons8.com/color/98/c-programming.png" alt="C logo"/></td>
+      <td><img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" alt="C++ logo"/></td>
+      <td><img src="https://img.icons8.com/nolan/96/c-sharp-logo" alt="C#"/></td>
+      <td><img src="https://img.icons8.com/color/96/python--v1.png" alt="Python logo"/></td>
+      <td><img src="https://img.icons8.com/color/96/golang.png" alt="Golang logo"/></td>
+      <td><img src="https://img.icons8.com/color/96/php.png" alt="PHP logo"/></td>
+      <td><img src="https://img.icons8.com/color/96/postgreesql.png" alt="PostgreSQL logo"/></td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BACK--END-FF2A2A?style=for-the-badge" alt="Back-End" />
-  <img src="https://img.shields.io/badge/.NET-0d0d0d?style=for-the-badge&logo=dotnet&logoColor=FF2A2A" alt=".NET" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=FF2A2A" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Nginx-0d0d0d?style=for-the-badge&logo=nginx&logoColor=FF2A2A" alt="Nginx" />
-  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=FF2A2A" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-0d0d0d?style=for-the-badge&logo=css&logoColor=FF2A2A" alt="CSS" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEMS%20%26%20TOOLS-FF2A2A?style=for-the-badge" alt="Systems and Tools" />
-  <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FF2A2A" alt="Linux" />
-  <img src="https://img.shields.io/badge/Arch-0d0d0d?style=for-the-badge&logo=archlinux&logoColor=FF2A2A" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-0d0d0d?style=for-the-badge&logo=ubuntu&logoColor=FF2A2A" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Debian-0d0d0d?style=for-the-badge&logo=debian&logoColor=FF2A2A" alt="Debian" />
-  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF2A2A" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF2A2A" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,nginx,dotnet,go,php,git,github,html,css,js&theme=dark" alt="Skills" style="max-width:420px;height:auto;margin-bottom:8px;" />
 </p>
 
 ## 📊 Statistics
