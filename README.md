@@ -18,27 +18,6 @@
   <a href="#-about-me">About</a> • <a href="#skills">Skills</a> • <a href="#-statistics">Statistics</a> • <a href="#contact">Contact</a>
 </p>
 
-<!-- Social badges: two-tone (dark label + brand color), pill-linked as a connect bar -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/heitorboli">
-    <img src="https://img.shields.io/badge/LinkedIn-heitorboli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:heitorbolisw4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-say%20hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/heitor_ai/">
-    <img src="https://img.shields.io/badge/Instagram-heitor__ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" alt="Instagram" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Back--End-FF2A2A?style=flat-square&labelColor=0d0d0d" alt="Focus: Back-End" />
-  <img src="https://img.shields.io/badge/Open%20to-Freelance-FF2A2A?style=flat-square&labelColor=0d0d0d" alt="Open to freelance" />
-  <img src="https://img.shields.io/badge/Learning-Low--level%20%26%20Networks-FF2A2A?style=flat-square&labelColor=0d0d0d" alt="Learning low-level and networks" />
-</p>
-
 </div>
 
 ## 🚀 About me
@@ -53,22 +32,35 @@
 > — Andrew S. Tanenbaum
 
 
+<!-- Skills badges: black & red theme — red category chip opens each row, black badges with red logos follow -->
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.icons8.com/color/98/c-programming.png" alt="C logo"/></td>
-      <td><img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" alt="C++ logo"/></td>
-      <td><img src="https://img.icons8.com/nolan/96/c-sharp-logo" alt="C#"/></td>
-      <td><img src="https://img.icons8.com/color/96/python--v1.png" alt="Python logo"/></td>
-      <td><img src="https://img.icons8.com/color/96/golang.png" alt="Golang logo"/></td>
-      <td><img src="https://img.icons8.com/color/96/php.png" alt="PHP logo"/></td>
-      <td><img src="https://img.icons8.com/color/96/postgreesql.png" alt="PostgreSQL logo"/></td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/LANGUAGES-FF2A2A?style=for-the-badge" alt="Languages" />
+  <img src="https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=FF2A2A" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=FF2A2A" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=dotnet&logoColor=FF2A2A" alt="C#" />
+  <img src="https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=FF2A2A" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=FF2A2A" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FF2A2A" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=FF2A2A" alt="JavaScript" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,nginx,dotnet,go,php,git,github,html,css,js&theme=dark" alt="Skills" style="max-width:420px;height:auto;margin-bottom:8px;" />
+  <img src="https://img.shields.io/badge/BACK--END-FF2A2A?style=for-the-badge" alt="Back-End" />
+  <img src="https://img.shields.io/badge/.NET-0d0d0d?style=for-the-badge&logo=dotnet&logoColor=FF2A2A" alt=".NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=FF2A2A" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Nginx-0d0d0d?style=for-the-badge&logo=nginx&logoColor=FF2A2A" alt="Nginx" />
+  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=FF2A2A" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-0d0d0d?style=for-the-badge&logo=css&logoColor=FF2A2A" alt="CSS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEMS%20%26%20TOOLS-FF2A2A?style=for-the-badge" alt="Systems and Tools" />
+  <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FF2A2A" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arch-0d0d0d?style=for-the-badge&logo=archlinux&logoColor=FF2A2A" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-0d0d0d?style=for-the-badge&logo=ubuntu&logoColor=FF2A2A" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Debian-0d0d0d?style=for-the-badge&logo=debian&logoColor=FF2A2A" alt="Debian" />
+  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF2A2A" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF2A2A" alt="GitHub" />
 </p>
 
 ## 📊 Statistics
