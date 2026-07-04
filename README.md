@@ -15,21 +15,39 @@
 </p>
 
 <p align="center">
-  <a href="#-sobre-mim">Sobre</a> • <a href="#skills">Skills</a> • <a href="#-estatísticas">Estatísticas</a> • <a href="#contato">Contato</a>
+  <a href="#-about-me">About</a> • <a href="#skills">Skills</a> • <a href="#-statistics">Statistics</a> • <a href="#contact">Contact</a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorboli)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorbolisw4@gmail.com)
+<!-- Social badges: two-tone (dark label + brand color), pill-linked as a connect bar -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/heitorboli">
+    <img src="https://img.shields.io/badge/LinkedIn-heitorboli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:heitorbolisw4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-say%20hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/heitor_ai/">
+    <img src="https://img.shields.io/badge/Instagram-heitor__ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Back--End-FF2A2A?style=flat-square&labelColor=0d0d0d" alt="Focus: Back-End" />
+  <img src="https://img.shields.io/badge/Open%20to-Freelance-FF2A2A?style=flat-square&labelColor=0d0d0d" alt="Open to freelance" />
+  <img src="https://img.shields.io/badge/Learning-Low--level%20%26%20Networks-FF2A2A?style=flat-square&labelColor=0d0d0d" alt="Learning low-level and networks" />
+</p>
 
 </div>
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Desenvolvedor **Back-End** especializado em **C# e Go**, com experiência no desenvolvimento de **APIs REST** e **desenvolvimento web com PHP**. Atuo como **freelancer** na construção de **sistemas web**, atendendo demandas reais e em contato direto com clientes. Movido pela curiosidade pela **computação em geral**, dedico-me ao estudo de **linguagens de baixo nível** e **redes** — do funcionamento interno dos sistemas à infraestrutura que os conecta —, sempre com foco em boas práticas de desenvolvimento e arquitetura de sistemas.
+**Back-End** developer specialized in **C# and Go**, with experience building **REST APIs** and doing **web development with PHP**. I work as a **freelancer** building **web systems**, handling real-world demands in direct contact with clients. Driven by curiosity about **computing in general**, I dedicate myself to studying **low-level languages** and **networking** — from the inner workings of systems to the infrastructure that connects them — always focused on development best practices and system architecture.
 
 ## Skills
 
-### 🧰 Stack & Curiosidades
+### 🧰 Stack & Curiosities
 
 > *"Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway."*
 > — Andrew S. Tanenbaum
@@ -53,33 +71,27 @@ Desenvolvedor **Back-End** especializado em **C# e Go**, com experiência no des
   <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,nginx,dotnet,go,php,git,github,html,css,js&theme=dark" alt="Skills" style="max-width:420px;height:auto;margin-bottom:8px;" />
 </p>
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=heitorbolisw4&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbolisw4&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=heitorbolisw4&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF2A2A&icon_color=FF2A2A&text_color=C9C9C9&ring_color=FF2A2A" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorbolisw4&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF2A2A&text_color=C9C9C9" alt="Most used languages" />
 
 </div>
 
-## Contato
+## Contact
 
 <div align="left" style="max-width:720px;margin:0 auto;">
 <ul style="list-style:none;padding:0;margin:0;">
-  <li style="margin:8px 0;padding:6px 10px;border-radius:8px;background:rgba(56,189,248,0.06);">
+  <li style="margin:8px 0;padding:6px 10px;border-radius:8px;background:rgba(255,42,42,0.06);">
     <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/heitorboli">heitorboli</a>
   </li>
-  <li style="margin:8px 0;padding:6px 10px;border-radius:8px;background:rgba(56,189,248,0.06);">
+  <li style="margin:8px 0;padding:6px 10px;border-radius:8px;background:rgba(255,42,42,0.06);">
     <strong>E-mail</strong>: <a href="mailto:heitorbolisw4@gmail.com">heitorbolisw4@gmail.com</a>
   </li>
-  <li style="margin:8px 0;padding:6px 10px;border-radius:8px;background:rgba(56,189,248,0.06);">
-    <strong>Instagram (pessoal)</strong>: <a href="https://www.instagram.com/heitoroliveira.web/">@heitoroliveira.web</a>
-  </li>
-  <li style="margin:8px 0;padding:6px 10px;border-radius:8px;background:rgba(56,189,248,0.06);">
-    <strong>Instagram (projeto)</strong>: <a href="https://www.instagram.com/kernel.so/">@kernel.so</a>
-  </li>
-  <li style="margin:8px 0;padding:6px 10px;border-radius:8px;background:rgba(56,189,248,0.06);">
-    <strong>Instagram (conteúdo tech/IA)</strong>: <a href="https://www.instagram.com/heitor_ai/">@heitor_ai</a>
+  <li style="margin:8px 0;padding:6px 10px;border-radius:8px;background:rgba(255,42,42,0.06);">
+    <strong>Instagram (tech/AI content)</strong>: <a href="https://www.instagram.com/heitor_ai/">@heitor_ai</a>
   </li>
 </ul>
 </div>
