@@ -8,8 +8,8 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Back-End+Developer;C%23+%7C+Go+%7C+PHP+%7C+.NET+%7C+Linux;Building+real+projects;Always+learning"
-    alt="Animated typing: Back-End Developer; C# | Go | PHP | .NET | Linux; Building real projects; Always learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=2000&color=38BDF8&center=true&vCenter=true&width=500&lines=Back-End+Developer;I+build+APIs+for+real+clients;Studying+systems+and+networking"
+    alt="Animated typing: Back-End Developer; I build APIs for real clients; Studying systems and networking"
     style="max-width:100%;height:auto;"
   />
 </p>
@@ -22,33 +22,33 @@
 
 ## 🚀 About me
 
-**Back-End** developer specialized in **C# and Go**, with experience building **REST APIs** and doing **web development with PHP**. I work as a **freelancer** building **web systems**, handling real-world demands in direct contact with clients. Driven by curiosity about **computing in general**, I dedicate myself to studying **low-level languages** and **networking** — from the inner workings of systems to the infrastructure that connects them — always focused on development best practices and system architecture.
+Back-End developer specialized in **C# and Go**, with experience building **REST APIs** and doing web development with PHP. I work as a **freelancer** building web systems, handling real-world demands in direct contact with clients. Driven by curiosity about computing in general, I dedicate myself to studying low-level languages and networking — from the inner workings of systems to the infrastructure that connects them — always focused on development best practices and system architecture.
+
+<div align="center">
+
+> *"Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway."*
+>
+> — Andrew S. Tanenbaum
+
+</div>
 
 ## Skills
 
-### 🧰 Stack & Curiosities
+<div align="center">
 
-> *"Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway."*
-> — Andrew S. Tanenbaum
+**Stack**
 
+<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=512BD4" alt="C#" />
+<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
 
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.icons8.com/color/98/c-programming.png" alt="C logo"/></td>
-      <td><img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" alt="C++ logo"/></td>
-      <td><img src="https://img.icons8.com/nolan/96/c-sharp-logo" alt="C#"/></td>
-      <td><img src="https://img.icons8.com/color/96/python--v1.png" alt="Python logo"/></td>
-      <td><img src="https://img.icons8.com/color/96/golang.png" alt="Golang logo"/></td>
-      <td><img src="https://img.icons8.com/color/96/php.png" alt="PHP logo"/></td>
-      <td><img src="https://img.icons8.com/color/96/postgreesql.png" alt="PostgreSQL logo"/></td>
-    </tr>
-  </table>
-</p>
+**Tooling**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,nginx,dotnet,go,php,git,github,html,css,js&theme=dark" alt="Skills" style="max-width:420px;height:auto;margin-bottom:8px;" />
-</p>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+
+</div>
 
 ## 📊 Statistics
 
