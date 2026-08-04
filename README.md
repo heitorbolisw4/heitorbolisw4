@@ -36,11 +36,7 @@ Back-End developer specialized in **C# and Go**, with experience building **REST
 
 <div align="center">
 
-**Stack** &nbsp;
-<img src="https://skillicons.dev/icons?i=cs,go,postgres&theme=dark" height="48" alt="C#, Go, PostgreSQL" />
-
-**Tooling** &nbsp;
-<img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" height="48" alt="Linux, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=cs,go,postgres,linux,git,github&perline=6&theme=dark" height="48" alt="C#, Go, PostgreSQL, Linux, Git, GitHub" />
 
 </div>
 
